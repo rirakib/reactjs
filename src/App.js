@@ -1,10 +1,9 @@
 import React from 'react'
-import State from './hooks/State'
 
 const App = () => {
   return (
     <div>
-      <State />
+      <h1>Hello react js</h1>
     </div>
   )
 }
